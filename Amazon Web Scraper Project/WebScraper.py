@@ -1,3 +1,4 @@
+#Multiple Url we can use Using this
 # Import necessary libraries
 import requests  # For making HTTP requests to fetch web pages
 from bs4 import BeautifulSoup  # For parsing HTML and XML documents
