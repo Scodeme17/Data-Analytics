@@ -21,7 +21,7 @@ products = [
 ]
 
 # Email credentials
-EMAIL_ADDRESS = 'sohankrshah000@gmail.com'
+EMAIL_ADDRESS = 'codeme000@gmail.com'
 EMAIL_PASSWORD = 'your_password'  # Replace with your email password
 
 def send_mail(subject, body):
